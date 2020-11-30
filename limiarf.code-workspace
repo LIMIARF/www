@@ -1,12 +1,9 @@
 {
   "folders": [
-	{
-		"path": "/Users/Abdelhak/Documents/Dev/Github/Websites/limiarf"
-	},
-	{
-		"name": "www",
-		"path": "."
-	}
-],
+    {
+      "name": "www",
+      "path": "."
+    }
+  ],
   "settings": {}
 }
